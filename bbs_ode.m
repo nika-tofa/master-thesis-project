@@ -1,5 +1,5 @@
 function dX = bbs_ode(t,X,b)
-%
+%  Used for all the algorithms
 %  This m-file evaluates the right-hand side
 %  of the predator-prey ODE system
 %
