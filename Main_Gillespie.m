@@ -2,7 +2,7 @@ clc
 clear all
 close all
 
-%% SIS models
+%% SIR models
 a = 0.002; % contact rate
 b = 0.4;   % infection rate
 t = 14;    % time span
